@@ -216,4 +216,4 @@ class NewsHandler:
             if len(page) < batch_size:
                 break
             offset += batch_size
-# Last sync: 2026-09-06 04:28:45 UTC
+# Last sync: 2026-09-06 06:00:19 UTC
